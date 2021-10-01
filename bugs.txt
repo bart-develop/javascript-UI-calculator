@@ -1,0 +1,2 @@
+* make keybinds
+* fix bug with adding decimal fractions
